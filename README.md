@@ -1,14 +1,13 @@
 # Manga-Chart-Instructions
 
-## Tips (Given we already know)
-- The API **will** give us a success response
-- The API **will** provide the same data in every response.
-
 ## Requirements
 - Use the modern native mobile development framework
     - **iOS:** Xcode + SwiftUI + Combine
     - **Android:** Android Studio + Jetpack Compose + Coroutines
 - Fetch manga data from the **[Jikan API](https://api.jikan.moe/v4/top/manga)**.
+    - **Tips:** (We already know)
+        - The API **will** give us a success response
+        - The API **will** provide the same data in every response. 
 - Implement navigation between scenes.
 - Display information as specified below.
 
